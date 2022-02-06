@@ -1,0 +1,2 @@
+# Heteroskedasticity
+Heteroskedasticity macro
